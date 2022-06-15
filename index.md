@@ -19,9 +19,9 @@ Lectures are every Tuesday and Thursday from 3:00-4:00 PM, starting on June 14,
 lecturer.
 
 The lectures below are subject to change, but should be reasonably stable.
-- Tue (6/14): Basic overview of blockchains and interacting with them
+- Tue (6/14): Basic overview of blockchains and interacting with them ([slides](slides/slides-01.pdf))
 - Thu (6/16): Simple applications (NFTs, voting, basic games) and some analyses
-- Tue (6/21): More complicated applications (stablecoins, auctions)
+- Tue (6/21): More complicated applications such as stablecoins and auctions
 - Thu (6/23): Basic properties of constant function marker makers
 - Tue (6/28): "Sophisticated" results in constant function market makers
 - Thu (6/30): Miner extractable value and atomicity
