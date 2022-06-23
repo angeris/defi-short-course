@@ -21,7 +21,7 @@ lecturer.
 The lectures below are subject to change, but should be reasonably stable.
 - Tue (6/14): Basic overview of blockchains and interacting with them ([slides](slides/slides-01.pdf))
 - Thu (6/16): Simple applications (NFTs, voting, basic games) and some analyses ([slides](slides/slides-02.pdf))
-- Tue (6/21): Basic properties of constant function marker makers
+- Tue (6/21): Basic properties of constant function marker makers ([slides](slides/slides-03.pdf))
 - Thu (6/23): "Sophisticated" results in constant function market makers
 - Tue (6/28): Miner extractable value and atomicity
 - Thu (6/30): Lending and stablecoins
@@ -34,3 +34,4 @@ take no more than an hour or so to complete. Of course, given that this is just
 a set of lectures, no homeworks will be graded.
 
 - [Problem set 1: basics of blockchains](psets/exercises-01.pdf)
+- Problem sets 2 and 3 will be uploaded soon as I just finished moving and had no internet until recently!
