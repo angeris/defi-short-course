@@ -22,7 +22,7 @@ The lectures below are subject to change, but should be reasonably stable.
 - Tue (6/14): Basic overview of blockchains and interacting with them ([slides](slides/slides-01.pdf))
 - Thu (6/16): Simple applications (NFTs, voting, basic games) and some analyses ([slides](slides/slides-02.pdf))
 - Tue (6/21): Basic properties of constant function marker makers ([slides](slides/slides-03.pdf))
-- Thu (6/23): "Sophisticated" results in constant function market makers
+- Thu (6/23): "Sophisticated" results in constant function market makers ([slides](slides/slides-04.pdf), [proof of replication](notes/proof-of-replication.pdf))
 - Tue (6/28): Miner extractable value and atomicity
 - Thu (6/30): Lending and stablecoins
 - Tue (7/5): Staking and staking derivatives (guest lecture by [Tarun Chitra](https://twitter.com/tarunchitra/))
