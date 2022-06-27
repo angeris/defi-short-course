@@ -34,4 +34,4 @@ take no more than an hour or so to complete. Of course, given that this is just
 a set of lectures, no homeworks will be graded.
 
 - [Problem set 1: basics of blockchains](psets/exercises-01.pdf)
-- Problem sets 2 and 3 will be uploaded soon as I just finished moving and had no internet until recently!
+- [Problem set 2: simple games](psets/exercises-02.pdf)
