@@ -23,8 +23,8 @@ The lectures below are subject to change, but should be reasonably stable.
 - Thu (6/16): Simple applications (NFTs, voting, basic games) and some analyses ([slides](slides/slides-02.pdf))
 - Tue (6/21): Basic properties of constant function marker makers ([slides](slides/slides-03.pdf))
 - Thu (6/23): "Sophisticated" results in constant function market makers ([slides](slides/slides-04.pdf), [proof of replication](notes/proof-of-replication.pdf))
-- Tue (6/28): Miner extractable value and atomicity
-- Thu (6/30): Oracles, lending, and stablecoins
+- Tue (6/28): Oracles, miner extractable value, and atomicity
+- Thu (6/30): Lending and stablecoins
 - Tue (7/5): Staking and staking derivatives (guest lecture by [Tarun Chitra](https://twitter.com/tarunchitra/))
 - Thu (7/7): Optimal routing and order execution (guest lecture by [Theo Diamandis](https://theodiamandis.com))
 
@@ -33,5 +33,6 @@ Every lecture has a (very short) set of problems associated with it that should
 take no more than an hour or so to complete. Of course, given that this is just
 a set of lectures, no homeworks will be graded.
 
-- [Problem set 1: basics of blockchains](psets/exercises-01.pdf)
-- [Problem set 2: simple games](psets/exercises-02.pdf)
+- [Problem set 1: Basics of blockchains](psets/exercises-01.pdf)
+- [Problem set 2: Simple games](psets/exercises-02.pdf)
+- [Problem set 3: Constant function market makers](psets/exercises-03.pdf)
