@@ -24,7 +24,7 @@ The lectures below are subject to change, but should be reasonably stable.
 - Tue (6/21): Basic properties of constant function marker makers ([slides](slides/slides-03.pdf))
 - Thu (6/23): "Sophisticated" results in constant function market makers ([slides](slides/slides-04.pdf), [proof of replication](notes/proof-of-replication.pdf))
 - Tue (6/28): Oracles, miner extractable value, and atomicity ([slides](slides/slides-05.pdf))
-- Thu (6/30): Lending and stablecoins
+- Thu (6/30): Lending and stablecoins ([slides](slides/slides-06.pdf))
 - Tue (7/5): Staking and staking derivatives (guest lecture by [Tarun Chitra](https://twitter.com/tarunchitra/))
 - Thu (7/7): Optimal routing and order execution (guest lecture by [Theo Diamandis](https://theodiamandis.com))
 
