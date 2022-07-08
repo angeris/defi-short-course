@@ -26,7 +26,7 @@ The lectures below are subject to change, but should be reasonably stable.
 - Tue (6/28): Oracles, miner extractable value, and atomicity ([slides](slides/slides-05.pdf))
 - Thu (6/30): Lending and stablecoins ([slides](slides/slides-06.pdf))
 - Tue (7/5): Staking and staking derivatives (guest lecture by [Tarun Chitra](https://twitter.com/tarunchitra/), [slides](slides/slides-07.pdf))
-- Thu (7/7): Optimal routing and order execution (guest lecture by [Theo Diamandis](https://theodiamandis.com))
+- Thu (7/7): Optimal routing and order execution (guest lecture by [Theo Diamandis](https://theodiamandis.com), [slides](slides/slides-08.pdf))
 
 ## Problem sets
 Every lecture has a (very short) set of problems associated with it that should
