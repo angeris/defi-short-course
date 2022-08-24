@@ -36,3 +36,8 @@ a set of lectures, no homeworks will be graded.
 - [Problem set 1: Basics of blockchains](psets/exercises-01.pdf)
 - [Problem set 2: Simple games](psets/exercises-02.pdf)
 - [Problem set 3: Constant function market makers](psets/exercises-03.pdf)
+- [Problem set 4: Replicating Portfolios](psets/exercises-04.pdf)
+- [Problem set 5: MEV in CFMMs](psets/exercises-05.pdf)
+- [Problem set 6: Oracle Manipulation](psets/exercises-06.pdf)
+- [Problem set 7: Proof of Stake](psets/exercises-07.pdf)
+- [Problem set 8: Optimal Routing](psets/exercises-08.pdf)
